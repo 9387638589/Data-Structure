@@ -1,6 +1,6 @@
+//Create and perform different operations on Doubleended Queues using Linked List implementation.//
 #include <iostream>
 #include <stdexcept>
-
 // Node template for the linked list
 template <typename T>
 struct Node {
