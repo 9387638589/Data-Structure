@@ -1,9 +1,9 @@
+//Perform Stack operations using Linked List implementation.//
 // Node template for the linked list
 template <typename T>
 struct Node {
     T data;
     Node* next;
-
     Node(const T& value) : data(value), next(nullptr) {}
 };
 
