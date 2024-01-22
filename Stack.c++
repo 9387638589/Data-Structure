@@ -1,3 +1,4 @@
+//Perform Stack operations using Array implementation. Use Templates.//
 #include <iostream>
 #include <stdexcept>
 
