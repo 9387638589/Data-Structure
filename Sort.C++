@@ -1,4 +1,4 @@
-//Implement Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list and concatenate two linked lists (include a function and also overload operator +).//
+//Write a program using templates to sort a list of elements. Give user the option to perform sorting using Insertion sort, Bubble sort or Selection sort.//
 #include <iostream>
 #include <vector>
 // Function template for Insertion Sort
