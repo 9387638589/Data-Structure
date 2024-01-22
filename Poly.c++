@@ -1,3 +1,4 @@
+//Write a program to scan a polynomial using linked list and add two polynomial.//
 #include <iostream>
 
 // Node template for the polynomial linked list
