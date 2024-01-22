@@ -1,4 +1,4 @@
-//LImplement Circular Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list.//
+//Implement Circular Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list.//
 #include <iostream>
 // Node template for the circular linked list
 template <typename T>
